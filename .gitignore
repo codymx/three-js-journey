@@ -1,0 +1,41 @@
+# NPM
+node_modules/
+/node_modules/
+
+# Built Files
+/js/
+assets/icons/fonts/
+dist/
+/dist/
+
+# Caches
+.cache/
+.netlify/
+/.cache/
+/.netlify/
+
+# Logs and databases
+*.log
+*.sql
+*.env
+
+# OS generated files
+**.DS_Store*
+ehthumbs.db
+Thumbs.db
+._*
+
+# SASS
+**/.sass-cache
+**/.sass-cache/*
+**/.map
+
+error_log
+.error_log
+
+# Composer Related
+/vendor/
+
+# PhpStorm
+.idea/
+.idea/*
