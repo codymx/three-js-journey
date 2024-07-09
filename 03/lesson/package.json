@@ -1,0 +1,19 @@
+{
+  "name": "three-js-journey-03",
+  "module": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "three": "^0.166.1",
+    "vite": "^5.3.3"
+  }
+}
